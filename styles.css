@@ -6,7 +6,7 @@ div::before{
 }
 
 div::after{
-	content:"After Element ";
+	content:"After Element";
 	color:red;
 	font-size:20px;
 }
